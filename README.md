@@ -8,10 +8,8 @@ What is this for?
 ## Other important information
 
 - https://cddc-s.cyb0x.com/ -- link to CTF competition
-- CTF platform access :https://youtu.be/csChY2ZjJc8
-- CTF platform orientation: https://youtu.be/vyBLS59ldQ8
-
-
+- https://youtu.be/csChY2ZjJc8 -- CTF platform access                   
+- https://youtu.be/vyBLS59ldQ8 -- CTF platform orientation: 
 
 # Task
 
