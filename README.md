@@ -12,7 +12,7 @@ What is this for?
 - https://youtu.be/csChY2ZjJc8 -- CTF platform access                   
 - https://youtu.be/vyBLS59ldQ8 -- CTF platform orientation: 
 
-# Task
+# Challenges
 
 
 
