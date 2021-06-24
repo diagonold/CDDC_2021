@@ -8,10 +8,8 @@
 
 # Challenge
 
-## Question
-
 ## Hints
   
-# Possible Approaches (Include those that you have tried too)
+## Possible Approaches (Include those that you have tried too)
 
-# Flag
+## Flag
